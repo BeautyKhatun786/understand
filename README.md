@@ -1,1 +1,2 @@
 # understand
+#learning phase
